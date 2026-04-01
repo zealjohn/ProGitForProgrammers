@@ -1,3 +1,4 @@
 #只是為了要測試 git add
 #已經用 git add .
-#已經用 git commit -m "此commit的說明訊息"
+#已經用 git commit -m "此commit的說明訊息"#只是為了要測試 git add
+#衝突後自行再增加的一行。
