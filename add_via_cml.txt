@@ -1,0 +1,1 @@
+這是從 CommandLine 建立的文字檔，目的是要測試 git comment -m "說明訊息"
